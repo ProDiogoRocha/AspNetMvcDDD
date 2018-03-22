@@ -1,0 +1,13 @@
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll.config
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.pdb
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.pdb
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.pdb

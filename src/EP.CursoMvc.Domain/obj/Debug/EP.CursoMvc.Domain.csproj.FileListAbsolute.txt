@@ -1,0 +1,6 @@
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csprojResolveAssemblyReference.cache
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+C:\Users\re035074\source\repos\ApplicationDDD\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
